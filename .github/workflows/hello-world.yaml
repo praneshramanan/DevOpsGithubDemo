@@ -9,3 +9,5 @@ jobs:
         run: echo "Hello World!"
       - name: my-name
         run: echo "Pranesh"
+      - name: my-name
+        run: echo "I edited and ran yaml"
